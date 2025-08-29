@@ -9,6 +9,9 @@ An easy-to-run Flask + OpenCV prototype for small-scale, in-person attendance tr
 
 This README explains how the project is organized, how to run it locally on Windows, and how the core flows (add user, start attendance) work.
 
+##Demo
+Coming soon
+
 ## Quick summary
 
 - Web app served by `app.py` (Flask).
