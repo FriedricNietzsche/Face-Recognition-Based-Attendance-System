@@ -9,8 +9,14 @@ An easy-to-run Flask + OpenCV prototype for small-scale, in-person attendance tr
 
 This README explains how the project is organized, how to run it locally on Windows, and how the core flows (add user, start attendance) work.
 
-##Demo
-Coming soon
+## Demo
+https://github.com/user-attachments/assets/60efe77c-01c8-4cd1-a924-576dfe69c98b
+<img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/0e46fe6a-40b4-44ef-86fe-7298a5e27bd9" />
+<img width="1917" height="931" alt="image" src="https://github.com/user-attachments/assets/387566cd-a9c5-4ec8-9422-569122ed5594" />
+<img width="1916" height="918" alt="image" src="https://github.com/user-attachments/assets/10b9392d-3055-4262-978a-dc31396e8750" />
+<img width="963" height="459" alt="image" src="https://github.com/user-attachments/assets/ea045442-980b-485c-a1f4-eb6d9e8d76f6" />
+
+
 
 ## Quick summary
 
